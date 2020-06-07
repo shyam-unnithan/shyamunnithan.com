@@ -1,8 +1,8 @@
-baseurl = "https://shyamunnithan.com"
+baseurl = "/"
 languageCode = "en-us"
-title = "Strata"
+title = "Shyam's musings"
 theme = "strata"
-disqusShortname = "spf13"
+disqusShortname = ""
 # Enable Google Analytics by inserting your tracking code
 googleAnalytics = ""
 # Define how many posts should appear on a site
