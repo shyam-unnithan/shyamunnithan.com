@@ -1,8 +1,8 @@
-title = "Notre-Dame de Paris"
-baseURL = "https://example.com"
+title = "www.shyamunnithan.com"
+baseURL = "https://www.shyamunnithan.com"
 languageCode = "en-us"
-theme = "gohugo-theme-ananke"
-themesDir = "../.."
+theme = "ananke"
+themesDir = "./themes"
 
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
